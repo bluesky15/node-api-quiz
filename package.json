@@ -1,0 +1,25 @@
+{
+  "name": "api-quiz",
+  "version": "1.0.0",
+  "description": "node quiz api endpoints",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluesky15/node-api-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluesky15/node-api-quiz/issues"
+  },
+  "homepage": "https://github.com/bluesky15/node-api-quiz#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0"
+  }
+}
